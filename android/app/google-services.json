@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "442033127047",
+    "project_id": "hodguide",
+    "storage_bucket": "hodguide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442033127047:android:98cf003493d79f81160222",
+        "android_client_info": {
+          "package_name": "com.kajonyod.suggest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442033127047-csti7abck13hi54gc3lv5chsudfm3pnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTnVA_UIc-A432jCZgcSGfUrrZpGLH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442033127047-csti7abck13hi54gc3lv5chsudfm3pnq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442033127047-1qbd3uaipqdms86fuqq4v3ittue4951l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sittisak.hodguide"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442033127047:android:d35e880b6fadae71160222",
+        "android_client_info": {
+          "package_name": "com.sittisak.hodguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442033127047-u68isf110auc3hduv7bgeivqf6kthmp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sittisak.hodguide",
+            "certificate_hash": "4b142a9207f448ec865925d4c20185ae87f8f44e"
+          }
+        },
+        {
+          "client_id": "442033127047-csti7abck13hi54gc3lv5chsudfm3pnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTnVA_UIc-A432jCZgcSGfUrrZpGLH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442033127047-csti7abck13hi54gc3lv5chsudfm3pnq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442033127047-1qbd3uaipqdms86fuqq4v3ittue4951l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sittisak.hodguide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

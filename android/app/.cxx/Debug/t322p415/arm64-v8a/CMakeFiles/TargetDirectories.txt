@@ -1,0 +1,2 @@
+/Users/tanat29/FlutterProject/hodguide/android/app/.cxx/Debug/t322p415/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/tanat29/FlutterProject/hodguide/android/app/.cxx/Debug/t322p415/arm64-v8a/CMakeFiles/rebuild_cache.dir
